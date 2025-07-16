@@ -47,7 +47,7 @@ P	Pause game
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/tetris-game.git
+git clone [https://github.com/your-username/tetris-game.git](https://github.com/bekzod28072009/Tetris.git)
 cd tetris-game
 Build and run the project using your preferred IDE or CLI.
 
