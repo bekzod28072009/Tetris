@@ -47,15 +47,12 @@ P	Pause game
 Clone the repository:
 
 bash
-git clone [https://github.com/your-username/tetris-game.git](https://github.com/bekzod28072009/Tetris.git)
+git clone https://github.com/bekzod28072009/Tetris.git
 cd tetris-game
 Build and run the project using your preferred IDE or CLI.
 
 🤝 Contributing
 Contributions are welcome! If you'd like to improve the game, fix bugs, or suggest features — feel free to open an issue or a pull request.
-
-📄 License
-This project is licensed under the MIT License.
 
 💡 Fun Fact
 Did you know? The word “Tetris” comes from the Greek word “tetra” (meaning four) and "tennis", the creator’s favorite sport! 🧠
